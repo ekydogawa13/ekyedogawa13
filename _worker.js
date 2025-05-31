@@ -5,7 +5,7 @@ import { connect } from "cloudflare:sockets";
 // Variables
 const rootDomain = "gametumbal72.workers.dev"; // Ganti dengan domain utama kalian
 const serviceName = "ekyedogawa13"; // Ganti dengan nama workers kalian
-const apiKey = "81503878c9663e46fd2c57b2a23b7feeda02c"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
+const apiKey = "a87c49fcce3c87d6af9f34efb5f49cd655f25"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "gametumbal72@gmail.com"; // Ganti dengan email yang kalian gunakan
 const accountID = "5e98dd7bb4718c29eea6374e06cdcc7a"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 const zoneID = ""; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
